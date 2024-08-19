@@ -1,7 +1,7 @@
 <h1 align="center">Hey! 👋, I'm Siddhi</h1>
 <h3 align="center">A student passionate about AI/ML and Software Development.</h3>
 
-- 🌱 I’m currently learning **MERN , GenAI**
+- 🌱 I’m currently learning **Web Dev**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sidd1915](https://github.com/sidd1915)
 
